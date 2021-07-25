@@ -1,0 +1,22 @@
+{
+  "name": "stoptrippin-threejsknight",
+  "version": "1.0.1",
+  "description": "stoptrippin social landing page in threejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colorstheforce/threejs-starter-practice.git"
+  },
+  "author": "stoptrippin",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/colorstheforce/threejs-starter-practice/issues"
+  },
+  "homepage": "https://github.com/colorstheforce/threejs-starter-practice#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
